@@ -1,4 +1,9 @@
+const feed_options = {
+  canonical_base: 'https://wangyulue.com',
+};
+
 module.exports = [
+  ['feed', feed_options],
   [
     '@vuepress/last-updated',
     {
