@@ -1,5 +1,16 @@
 ---
 title: 从零搭建 Electron 应用
+
+feed:
+  enable: true
+  title: 从零搭建 Electron 应用
+  description: Electron 是一个优秀的跨平台桌面应用程序开源库，目前接触 Electron 的开发者也越来越多。但是笔者发现，目前社区里缺少对初学者足够友好的入门教程来帮助初学者用 Electron 搭建一个完整的开发框架。
+  image: ./images/image06.png
+  author:
+    -
+      name: 王玉略
+      email: wangyulue@gmail.com
+      link: https://wangyulue.com
 ---
 
 Electron 是一个优秀的跨平台桌面应用程序开源库，目前接触 Electron 的开发者也越来越多。但是笔者发现，目前社区里缺少对初学者足够友好的入门教程来帮助初学者用 Electron 搭建一个完整的开发框架。
